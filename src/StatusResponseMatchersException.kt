@@ -1,0 +1,1 @@
+class StatusResponseMatchersException(message: String) : ResponseMatchersException(message)

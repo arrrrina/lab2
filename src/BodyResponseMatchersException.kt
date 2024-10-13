@@ -1,0 +1,1 @@
+class BodyResponseMatchersException(message: String) : ResponseMatchersException(message)
